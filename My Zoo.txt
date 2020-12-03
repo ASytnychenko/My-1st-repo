@@ -1,3 +1,6 @@
 Bear
 Wolf
 Jaguar
+
+New animals added:
+Fox
